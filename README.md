@@ -1,7 +1,7 @@
 ### Hello!
 
 - My name is Jian, pronouced as gee-yee-ann.
-- I'm a sophomore student studying Computer Science at Cornell University
+- I'm a 2023 graduate of Cornell University majoring Computer Science
 - I'm a developer at Cornell's course management system [CMSX](https://cmsx.cs.cornell.edu/web/guest/)
 
 Thank you for visiting my Github page!
